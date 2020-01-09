@@ -60,7 +60,7 @@ Aby dowiedzieć się więcej na ten temat, zajrzyj do rozdziału pt. ["React bez
 
 ### Suspense {#suspense}
 
-`Suspense` pozwala komponentowi "poczekać" na konkretne zdarzenie przez wyrenderowaniem. Obecnie `Suspense` obsługuje tylko jeden przypadek użycia: [dynamiczne ładowanie komponentów przy użyciu `React.lazy`](/docs/code-splitting.html#reactlazy). W przyszłości będzie wspierał także inne przypadki użycia, jak na przykład pobieranie danych.
+`Suspense` pozwala komponentowi "poczekać" na konkretne zdarzenie przed wyrenderowaniem. Obecnie `Suspense` obsługuje tylko jeden przypadek użycia: [dynamiczne ładowanie komponentów przy użyciu `React.lazy`](/docs/code-splitting.html#reactlazy). W przyszłości będzie wspierał także inne przypadki użycia, jak na przykład pobieranie danych.
 
 - [`React.lazy`](#reactlazy)
 - [`React.Suspense`](#reactsuspense)
